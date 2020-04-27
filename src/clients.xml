@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><clients>
+    <client>
+        <ID>1</ID>
+        <SerialNo>sn01</SerialNo>
+        <Name>Pop Ion</Name>
+    </client>
+    <client>
+        <ID>3</ID>
+        <SerialNo>sn03</SerialNo>
+        <Name>Popescu Marcel</Name>
+    </client>
+</clients>
