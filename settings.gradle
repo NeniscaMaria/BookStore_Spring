@@ -1,4 +1,0 @@
-rootProject.name = 'Book-Store'
-include 'server'
-include 'common'
-include 'client'

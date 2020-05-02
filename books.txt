@@ -1,3 +1,0 @@
-44,300,Watchmen,Watchmen,1987,25.99,138
-45,100,Crime and Punishment,Crime and Punishment,1866,50.0,46
-2,433,Paradise Lost,Paradise Lost,1667,23.5,400

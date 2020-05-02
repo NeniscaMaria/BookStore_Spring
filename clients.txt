@@ -1,3 +1,0 @@
-4,44,Ionescu Marcel
-3,33,Ionescu Mara
-2,22,Popescu Marcel
